@@ -10,6 +10,7 @@
 # "i" is set to null so that a new inverse has to be calculated.
 #the list at the end is used to organize all the values into a list
 
+
 makeCacheMatrix <- function(x = matrix()) {
     i <- NULL
     set <- function(y) {
